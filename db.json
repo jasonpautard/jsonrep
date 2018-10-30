@@ -1,18 +1,18 @@
-"users" : {
-  {
+"users" : [
+  [
     "id": 0,
     "surname": "Jason",
     "name": "Pautard",
     "statut": "Étudiant",
     "mail": "jason.pautard@gmail.com",
     "tel": "06 29 78 31 74"
-  },
-  {
+  ],
+  [
     "id": 1,
     "surname": "Charly",
     "name": "Changeat",
     "statut": "Étudiant",
     "mail" : "charly.changeat@outlook.fr",
     "tel" : "07 86 18 25 81"
-  },
-}
+  ],
+]
