@@ -4,119 +4,34 @@
     "firstName": "Jason",
     "surname": "Pautard",
     "statut": "Étudiant",
-    "email": "jason.pautard@gmail.com",
-    "tel": "06 29 78 31 74"
+    "email": "jason.pautard@gmail.com"
   },
   {
     "id": 1,
     "firstName": "Charly",
     "surname": "Changeat",
     "statut": "Étudiant",
-    "email" : "charly.changeat@outlook.fr",
-    "tel" : "07 86 18 25 81"
+    "email" : "charly.changeat@outlook.fr"
   },
   {
     "id": 2,
     "firstName": "Benjamin",
     "surname": "Lamy",
     "statut": "Apprenti",
-    "email" : "",
-    "tel" : ""
+    "email" : ""
   },
   {
     "id": 3,
     "firstName": "Lucie",
     "surname": "Pardonche",
     "statut": "Apprentie",
-    "email" : "pardonche.lucie@neuf.fr",
-    "tel" : "06 19 37 84 93"
+    "email" : "pardonche.lucie@neuf.fr"
   },
   {
     "id": 4,
     "firstName": "Lena",
     "surname": "Hollier",
     "statut": "Étudiante",
-    "email" : "",
-    "tel" : ""
-  },
-  {
-    "id": 5,
-    "firstName": "Jade",
-    "surname": "Bariol",
-    "statut": "Apprentie",
-    "email" : "",
-    "tel" : ""
-  },
-  {
-    "id": 6,
-    "firstName": "Theo",
-    "surname": "Rassachack",
-    "statut": "Apprenti",
-    "email" : "theo.rassachack@gmail.com",
-    "tel" : "06 11 17 79 12"
-  },
-  {
-    "id": 7,
-    "firstName": "Thibault",
-    "surname": "Dubois",
-    "statut": "Apprenti",
-    "email" : "",
-    "tel" : ""
-  },
-  {
-    "id": 8,
-    "firstName": "Tiziano",
-    "surname": "Vitulli",
-    "statut": "Étudiante",
-    "email" : "",
-    "tel" : ""
-  },
-  {
-    "id": 9,
-    "firstName": "Fanny",
-    "surname": "Coulon",
-    "statut": "Étudiante",
-    "email" : "",
-    "tel" : ""
-  },
-  {
-    "id": 10,
-    "firstName": "Sandra",
-    "surname": "Boussuyt",
-    "statut": "Étudiante",
-    "email" : "",
-    "tel" : ""
-  },
-  {
-    "id": 11,
-    "firstName": "Edrian",
-    "surname": "Pesce Y-dru",
-    "statut": "Étudiant",
-    "email" : "",
-    "tel" : ""
-  },
-  {
-    "id": 12,
-    "firstName": "Marvin",
-    "surname": "Soulé",
-    "statut": "Étudiant",
-    "email" : "",
-    "tel" : ""
-  },
-  {
-    "id": 13,
-    "firstName": "Sarah",
-    "surname": "De Abreu",
-    "statut": "Étudiante",
-    "email" : "",
-    "tel" : ""
-  },
-  {
-    "id" : 14,
-    "firstName": "Marie",
-    "surname": "Motte",
-    "statut": "Étudiant(e)",
-    "email" : "",
-    "tel" : ""
+    "email" : ""
   }
 ]
