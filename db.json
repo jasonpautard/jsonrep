@@ -1,4 +1,4 @@
-"users" : [
+"users" : {
   {
     "id": 0,
     "surname": "Jason",
@@ -15,4 +15,4 @@
     "mail" : "charly.changeat@outlook.fr",
     "tel" : "07 86 18 25 81"
   },
-]
+}
