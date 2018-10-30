@@ -1,19 +1,19 @@
-[
+"users" : [
   {
     "id": 0,
     "surname": "Jason",
     "name": "Pautard",
     "statut": "Étudiant",
     "mail": "jason.pautard@gmail.com",
-    "tel": "06 29 78 31 74",
+    "tel": "06 29 78 31 74"
   },
   {
-    "id:" 1,
+    "id": 1,
     "surname": "Charly",
     "name": "Changeat",
     "statut": "Étudiant",
     "mail" : "charly.changeat@outlook.fr",
-    "tel" : "07 86 18 25 81",
+    "tel" : "07 86 18 25 81"
   },
   {
     "id": 2,
@@ -21,7 +21,7 @@
     "name": "Lamy",
     "statut": "Apprenti",
     "mail" : "",
-    "tel" : "",
+    "tel" : ""
   },
   {
     "id": 3,
@@ -29,7 +29,7 @@
     "name": "Pardonche",
     "statut": "Apprentie",
     "mail" : "pardonche.lucie@neuf.fr",
-    "tel" : "06 19 37 84 93",
+    "tel" : "06 19 37 84 93"
   },
   {
     "id": 4,
@@ -37,7 +37,7 @@
     "name": "Hollier",
     "statut": "Étudiante",
     "mail" : "",
-    "tel" : "",
+    "tel" : ""
   },
   {
     "id": 5,
@@ -45,7 +45,7 @@
     "name": "Bariol",
     "statut": "Apprentie",
     "mail" : "",
-    "tel" : "",
+    "tel" : ""
   },
   {
     "id": 6,
@@ -53,7 +53,7 @@
     "name": "Rassachack",
     "statut": "Apprenti",
     "mail" : "theo.rassachack@gmail.com",
-    "tel" : "06 11 17 79 12",
+    "tel" : "06 11 17 79 12"
   },
   {
     "id": 7,
@@ -61,7 +61,7 @@
     "name": "Dubois",
     "statut": "Apprenti",
     "mail" : "",
-    "tel" : "",
+    "tel" : ""
   },
   {
     "id": 8,
@@ -69,7 +69,7 @@
     "name": "Vitulli",
     "statut": "Étudiante",
     "mail" : "",
-    "tel" : "",
+    "tel" : ""
   },
   {
     "id": 9,
@@ -77,7 +77,7 @@
     "name": "Coulon",
     "statut": "Étudiante",
     "mail" : "",
-    "tel" : "",
+    "tel" : ""
   },
   {
     "id": 10,
@@ -85,7 +85,7 @@
     "name": "Boussuyt",
     "statut": "Étudiante",
     "mail" : "",
-    "tel" : "",
+    "tel" : ""
   },
   {
     "id": 11,
@@ -93,7 +93,7 @@
     "name": "Pesce Y-dru",
     "statut": "Étudiant",
     "mail" : "",
-    "tel" : "",
+    "tel" : ""
   },
   {
     "id": 12,
@@ -101,7 +101,7 @@
     "name": "Soulé",
     "statut": "Étudiant",
     "mail" : "",
-    "tel" : "",
+    "tel" : ""
   },
   {
     "id": 13,
@@ -109,7 +109,7 @@
     "name": "De Abreu",
     "statut": "Étudiante",
     "mail" : "",
-    "tel" : "",
+    "tel" : ""
   },
   {
     "id" : 14,
@@ -117,6 +117,6 @@
     "name": "Motte",
     "statut": "Étudiant(e)",
     "mail" : "",
-    "tel" : "",
+    "tel" : ""
   },
 ]
